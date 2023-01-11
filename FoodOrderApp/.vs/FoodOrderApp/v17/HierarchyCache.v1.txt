@@ -1,0 +1,300 @@
+﻿++Solution 'FoodOrderApp' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:FoodOrderApp.sln
+++FoodOrderApp.Shared
+i:{00000000-0000-0000-0000-000000000000}:FoodOrderApp.Shared
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\shared\foodorderapp.shared.csproj
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\shared\bin\debug\net6.0\foodorderapp.shared.dll
+++Dependencies
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:>1386
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2446
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:>2447
+++Analyzers
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:analyzers
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:analyzers
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:analyzers
+++Frameworks
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:frameworks
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:frameworks
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:frameworks
+++Menus.cs
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:d:\program & library\asp.net\foodorderapp\foodorderapp\shared\menus.cs
+++Order.cs
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:d:\program & library\asp.net\foodorderapp\foodorderapp\shared\order.cs
+++WeatherForecast.cs
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:d:\program & library\asp.net\foodorderapp\foodorderapp\shared\weatherforecast.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\users\acer\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{826ed081-010c-4308-92b1-c6b755a28a39}:d:\program & library\asp.net\foodorderapp\foodorderapp\shared\microsoft.netcore.app
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\microsoft.netcore.app
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\microsoft.netcore.app
+++FoodOrderApp.Server
+i:{00000000-0000-0000-0000-000000000000}:FoodOrderApp.Server
+++Connected Services 
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2449
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:>2448
+++Properties
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\properties\
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\properties\
+++launchSettings.json
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\properties\launchsettings.json
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\properties\launchsettings.json
+++Controllers
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\controllers\
+++OrderControllers.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\controllers\ordercontrollers.cs
+++WeatherForecastController.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\controllers\weatherforecastcontroller.cs
+++Data
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\data\
+++DataContext.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\data\datacontext.cs
+++Migrations
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\migrations\
+++Pages
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\pages\
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\pages\
+++Error.cshtml
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\pages\error.cshtml
+++appsettings.json
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\appsettings.json
+++appsettings.Development.json
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\appsettings.development.json
+++Program.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\program.cs
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\program.cs
+++No service dependencies discovered
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2450
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:>2451
+++Packages
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:packages
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:packages
+++Projects
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:projects
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:projects
+++20230111072003_Initial.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\migrations\20230111072003_initial.cs
+++DataContextModelSnapshot.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\migrations\datacontextmodelsnapshot.cs
+++Error.cshtml.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\pages\error.cshtml.cs
+++Microsoft.AspNetCore.Analyzers
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\users\acer\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\users\acer\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\users\acer\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\users\acer\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.1\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\microsoft.aspnetcore.app
+++EntityFramework (6.1.0)
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2513
+++Microsoft.AspNetCore.Components.WebAssembly.Server (6.0.4)
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2516
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2512
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2515
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2514
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:>2511
+++FoodOrderApp.Client
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\foodorderapp.client.csproj
+i:{00000000-0000-0000-0000-000000000000}:FoodOrderApp.Client
+++20230111072003_Initial.Designer.cs
+i:{f619834e-56fa-45bf-aac0-c4eea6735626}:d:\program & library\asp.net\foodorderapp\foodorderapp\server\migrations\20230111072003_initial.designer.cs
+++wwwroot
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\
+++Counter.razor
+++FetchData.razor
+++Index.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\pages\index.razor
+++Ord.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\pages\ord.razor
+++Orders.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\pages\orders.razor
+++Services
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\services\
+++OrderService
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\services\orderservice\
+++IOrderService.cs
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\services\orderservice\iorderservice.cs
+++OrderService.cs
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\services\orderservice\orderservice.cs
+++Shared
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\shared\
+++MainLayout.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\shared\mainlayout.razor
+++NavMenu.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\shared\surveyprompt.razor
+++_Imports.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\_imports.razor
+++App.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\app.razor
+++ILLink.CodeFixProvider
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.4)
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:>2471
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.4)
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:>2472
+++css
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\css\
+++favicon.ico
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\favicon.ico
+++icon-192.png
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\icon-192.png
+++index.html
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\index.html
+++MainLayout.razor.css
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\shared\navmenu.razor.css
+++bootstrap
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\bootstrap\
+++open-iconic
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\
+++app.css
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\app.css
+++bootstrap.min.css
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\readme.md
+++bootstrap.min.css.map
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++Script Documents
+++localhost꞉7292/_framework/blazor.webassembly.js
+++localhost꞉7292/_framework/aspnetcore-browser-refresh.js
+++localhost꞉44398/ee025e8b07764d13b322fc33801ae45b/browserLink
+++localhost꞉7292/_framework/dotnet.6.0.4.39a8e9k4xm.js
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\Menus.cs
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\Order.cs
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\WeatherForecast.cs
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Shared\SurveyPrompt.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Shared\MainLayout.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Shared\NavMenu.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Pages\Counter.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Pages\FetchData.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Pages\Ord.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Pages\Orders.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Services\OrderService\OrderService.cs
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Program.cs
+++mono-wasm.invalid/converter_ii_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_ii_result_unmarshaled
+++mono-wasm.invalid/converter_mi
+++mono-wasm.invalid/variadic_converter_mi
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectJSHandle
+++mono-wasm.invalid/managed_BINDINGS_TryGetCSOwnedObjectJSHandle
+++mono-wasm.invalid/converter_iii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectByJSHandle
+++mono-wasm.invalid/variadic_converter_iii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateCSOwnedProxy
+++mono-wasm.invalid/converter_i_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_i_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectByGCHandle
+++mono-wasm.invalid/converter_m
+++mono-wasm.invalid/variadic_converter_m
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectGCHandle
+++mono-wasm.invalid/converter_i
+++mono-wasm.invalid/variadic_converter_i
+++mono-wasm.invalid/managed_BINDINGS_ReleaseJSOwnedObjectByGCHandle
+++mono-wasm.invalid/converter_
+++mono-wasm.invalid/variadic_converter_
+++mono-wasm.invalid/managed_BINDINGS_CreateTaskSource
+++mono-wasm.invalid/converter_io
+++mono-wasm.invalid/variadic_converter_io
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceResult
+++mono-wasm.invalid/converter_is
+++mono-wasm.invalid/variadic_converter_is
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceFailure
+++mono-wasm.invalid/managed_BINDINGS_GetTaskSourceTask
+++mono-wasm.invalid/converter_mo
+++mono-wasm.invalid/variadic_converter_mo
+++mono-wasm.invalid/managed_BINDINGS_SetupJSContinuation
+++mono-wasm.invalid/managed_BINDINGS_ObjectToString
+++mono-wasm.invalid/managed_BINDINGS_GetDateValue
+++mono-wasm.invalid/converter_d_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_d_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateDateTime
+++mono-wasm.invalid/converter_s_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_s_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateUri
+++mono-wasm.invalid/managed_BINDINGS_IsSimpleArray
+++mono-wasm.invalid/converter_im
+++mono-wasm.invalid/variadic_converter_im
+++mono-wasm.invalid/converter_ssss
+++mono-wasm.invalid/variadic_converter_ssss
+++mono-wasm.invalid/converter_s
+++mono-wasm.invalid/variadic_converter_s
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_InvokeDotNet
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_NotifyByteArrayAvailable
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_BeginInvokeDotNet
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_EndInvokeJS
+++localhost꞉7292/_framework/blazor-hotreload.js
+++Login.razor
+++NewFolder
+++Login
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\login\
+++LocalStorage.cs
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\login\localstorage.cs
+++LocalStorage.cs~RF1ae9f7c9.TMP
+++Program.cs~RF1aeb0a72.TMP
+++Program.cs~RF1aec94ab.TMP
+++MainLayout.razor~RF1aedc4bf.TMP
+++NavMenu.razor~RF1aee8792.TMP
+++Account.razor
+i:{1f759735-1690-4e38-8f78-2f5b2dd17fd6}:d:\program & library\asp.net\foodorderapp\foodorderapp\client\pages\account.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Pages\Account.razor
+++file://d:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Client\Login\LocalStorage.cs
+++MainLayout.razor~RF1af4a29f.TMP
+++NavMenu.razor~RF1af5afc9.TMP

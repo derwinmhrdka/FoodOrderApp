@@ -1,0 +1,48 @@
+﻿@page "/orders"
+@inject IOrderService OrderService
+@inject NavigationManager NavigationManager
+
+<PageTitle>Order Menu</PageTitle>
+
+<h3>Order Menu</h3>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>No Order</th>
+			<th>No Meja</th>
+			<th>Status</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var ord in OrderService.Orders)
+		{
+			<tr>
+				<td>@ord.NoOrder</td>
+				<td>@ord.NomorMeja</td>
+				<td>@ord.Menus.Status</td>
+				<td>
+					<button class="btn btn-primary" @onclick="(() => ShowOrder(ord.Id))"><i class="oi oi-pencil"></i></button>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+<button class="btn btn-primary" @onclick="CreateNewOrder">Create New Order</button>
+
+@code {
+	protected override async Task OnInitializedAsync()
+	{
+		await OrderService.GetOrders();
+	}
+
+	void ShowOrder(int id)
+    {
+        NavigationManager.NavigateTo($"ord/{id}");
+    }
+
+	void CreateNewOrder()
+    {
+        NavigationManager.NavigateTo("/ord");
+    }
+}

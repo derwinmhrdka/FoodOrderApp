@@ -1,0 +1,12 @@
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\bin\Debug\net6.0\FoodOrderApp.Shared.deps.json
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\bin\Debug\net6.0\FoodOrderApp.Shared.dll
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\bin\Debug\net6.0\FoodOrderApp.Shared.pdb
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\FoodOrderApp.Shared.csproj.AssemblyReference.cache
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\FoodOrderApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\FoodOrderApp.Shared.AssemblyInfoInputs.cache
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\FoodOrderApp.Shared.AssemblyInfo.cs
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\FoodOrderApp.Shared.csproj.CoreCompileInputs.cache
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\FoodOrderApp.Shared.dll
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\refint\FoodOrderApp.Shared.dll
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\FoodOrderApp.Shared.pdb
+D:\Program & Library\ASP.NET\FoodOrderApp\FoodOrderApp\Shared\obj\Debug\net6.0\ref\FoodOrderApp.Shared.dll
